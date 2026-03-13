@@ -180,7 +180,7 @@ cython_debug/
 
 # Ignore memory in sidekick
 # note: added after already committed, so we need to remove the file from git tracking first with:
-# git rm --cached 6_mcp/memory/memory.db*
+# git rm --cached **.memory.db*
 **/memory.db*
 
 # Ignore Accounts database in capstone project
