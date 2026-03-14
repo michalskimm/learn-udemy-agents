@@ -10,9 +10,8 @@ from langchain_experimental.tools import PythonREPLTool
 from langchain_community.utilities import GoogleSerperAPIWrapper
 from langchain_community.utilities.wikipedia import WikipediaAPIWrapper
 
-
-
 load_dotenv(override=True)
+
 pushover_token = os.getenv("PUSHOVER_TOKEN")
 pushover_user = os.getenv("PUSHOVER_USER")
 pushover_url = "https://api.pushover.net/1/messages.json"
@@ -40,7 +39,7 @@ async def other_tools():
     push_tool = Tool(name="send_push_notification", func=push, description="Use this tool when you want to send a push notification")
     file_tools = get_file_tools()
 
-    tool_search =Tool(
+    tool_search = Tool(
         name="search",
         func=serper.run,
         description="Use this tool when you want to get the results of an online web search"
