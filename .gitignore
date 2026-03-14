@@ -182,6 +182,7 @@ cython_debug/
 # note: added after already committed, so we need to remove the file from git tracking first with:
 # git rm --cached **.memory.db*
 **/memory.db*
+**/*.db*
 
 # Ignore Accounts database in capstone project
 6_mcp/accounts.db
