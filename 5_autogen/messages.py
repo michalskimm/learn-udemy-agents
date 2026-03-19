@@ -3,13 +3,11 @@ from autogen_core import AgentId
 import glob
 import os
 
-
 import random
 
 @dataclass
 class Message:
     content: str
-
 
 def find_recipient() -> AgentId:
     try:

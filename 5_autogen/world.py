@@ -23,7 +23,7 @@ async def main():
     await worker.start()
     result = await Creator.register(worker, "Creator", lambda: Creator("Creator"))
     creator_id = AgentId("Creator", "default")
-    coroutines = [create_and_message(worker, creator_id, i) for i in range(1, HOW_MANY_AGENTS+1)]
+    coroutines = [create_and_message(worker, creator_id, i) for i in range(1, HOW_MANY_AGENTS+1)]  # async create and message for each agent
     await asyncio.gather(*coroutines)
     try:
         await worker.stop()
