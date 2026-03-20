@@ -1,27 +1,31 @@
 # Banoffee Pie Recipe
 
 ## Ingredients
-- 4 bananas, sliced
-- 394g caramel or dulce de leche
-- 300ml double cream
-- Dark chocolate (optional)
+- 1 can (about 14 ounces) sweetened condensed milk (for toffee)
+- 1 ready-made digestive biscuit crust (or graham cracker crust)
+- 3 to 4 ripe bananas
+- 1 cup heavy cream (for whipping)
+- 2 tablespoons powdered sugar
+- 1 teaspoon vanilla extract
+- Grated chocolate or cocoa powder (for garnish)
 
-### For the pastry
-- 100g butter, chilled (plus extra for greasing)
-- 200g plain flour
-- 1 medium egg, separated
-- 1 tbsp golden caster sugar
+## Instructions
+1. **Make the toffee (dulce de leche):** Place the unopened can of sweetened condensed milk in a pot of boiling water. Make sure the can is fully submerged and boil for 2 to 3 hours, adding more water as needed. Let cool completely before opening.
 
-## Method
-1. Make the pastry case: Put butter and flour in a food processor and pulse until it resembles fresh breadcrumbs. Add egg yolk and sugar, pulse again, then add very cold water a tbsp at a time until dough comes together.
-2. Knead dough gently by hand until smooth ball forms. Wrap in cling film and chill for 30 minutes.
-3. Heat oven to 190C/170C fan/gas 4. Grease a 23cm loose bottomed fluted tart tin. Roll out pastry and line the tin, leaving about 0.5cm of pastry over the edge and snip to length.
-4. Line base with baking parchment and weigh down with baking beans/uncooked rice. Bake for 15 minutes. Remove parchment and beans, brush pastry with beaten egg white and bake another 15-20 minutes until golden and cooked. Cool completely.
-5. Spread half the caramel on the pastry case, layer bananas on top, then cover with remaining caramel. Chill in fridge.
-6. Whip the cream until thick and spoon over the tart. Grate dark chocolate over to garnish if using.
+2. **Prepare the crust:** If using a pre-made crust, place it on a serving plate.
 
-## Notes
-- Serves 8-10.
-- Prep time: 30 minutes.
-- Cook time: 30-35 minutes.
-- An easy family favorite. Recommended to serve with a generous dollop of cream.
+3. **Slice bananas:** Peel and slice the bananas into thin rounds.
+
+4. **Whip cream:** In a bowl, whip the heavy cream with powdered sugar and vanilla extract until soft peaks form.
+
+5. **Assemble the pie:** Spread the cooled toffee (dulce de leche) evenly over the crust.
+
+6. Layer the banana slices over the toffee.
+
+7. Spread the whipped cream on top of the bananas.
+
+8. Garnish with grated chocolate or a dusting of cocoa powder.
+
+9. Chill the pie in the refrigerator for at least 1 hour before serving.
+
+Enjoy your delicious Banoffee Pie!
